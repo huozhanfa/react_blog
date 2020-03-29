@@ -11,11 +11,10 @@
 npm install 或者 cnpm install 或者 yarn install
 ```
 - 进入admin，运行
-- 进入blog ,运行
 ```
  yarn add start
  ```
- - 进入admin，运行
+ - 进入blog，运行
 
 ```
 yarn add dev 
