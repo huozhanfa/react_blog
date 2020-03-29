@@ -10,17 +10,19 @@
 ```
 npm install 或者 cnpm install 或者 yarn install
 ```
-- 进入admin和blog分别，单独运行，
+- 进入admin，运行
+- 进入blog ,运行
+```
+ yarn add start
+ ```
+ - 进入admin，运行
 
 ```
-yarn add dev 和 yarn add start
+yarn add dev 
 ```
 - 进入serve,运行
 ```
  yarn add dev
 ```
-
-
- yarn add dev
 
 > 结束语：目前还有一些bug，后续会优化代码以及拓展功能
