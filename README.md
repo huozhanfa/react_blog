@@ -23,5 +23,4 @@ yarn add dev 和 yarn add start
 
  yarn add dev
 
-- 注意：后端使用的是4000端口，如果4000端口被占用需要使用其他端口请到admin/src/utils目录下的config.js和http.js更改本机使用的端口
 > 结束语：目前还有一些bug，后续会优化代码以及拓展功能
